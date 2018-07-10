@@ -1,0 +1,31 @@
+ <a href="date.html">date</a>     Display or change the date &amp; time
+  <a href="dc.html">dc</a>       Desk Calculator
+  <a href="dd.html">dd</a>       Convert and copy a file, write disk headers, boot records
+  <a href="ddrescue.html">ddrescue</a> Data recovery tool
+  <a href="declare.html">declare</a>  Declare variables and give them attributes •
+  <a href="df.html">df</a>       Display free disk space
+  <a href="diff.html">diff</a>     Display the differences between two files
+  <a href="diff3.html">diff3</a>    Show differences among three files
+  <a href="dig.html">dig</a>      DNS lookup
+  <a href="dir.html">dir</a>      Briefly list directory contents
+  <a href="dircolors.html">dircolors</a> Colour setup for `ls'
+  <a href="dirname.html">dirname</a>  Convert a full pathname to just a path
+  <a href="dirs.html">dirs</a>     Display list of remembered directories
+  <a href="dmesg.html">dmesg</a>    Print kernel &amp; driver messages 
+  <a href="du.html">du</a>       Estimate file space usage
+# aaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<pre>  <a href="alias.html">alias</a>    Create an alias •
+  apropos  Search Help manual pages (man -k)
+  <a href="apt-get.html">apt-get</a>  Search for and install software packages (Debian/Ubuntu)
+  <a href="aptitude.html">aptitude</a> Search for and install software packages (Debian/Ubuntu)
+  <a href="aspell.html">aspell</a>   Spell Checker
+  <a href="awk.html">awk</a>      Find and Replace text, database sort/validate/index
+b
+  <a href="basename.html">basename</a> Strip directory and suffix from filenames
+  bash     GNU Bourne-Again SHell 
+  <a href="bc.html">bc</a>       Arbitrary precision calculator language 
+  <a href="bg.html">bg</a>       Send to background
+  <a href="bind.html">bind</a>     Set or display readline key and function bindings &bull;
+  <a href="break.html">break</a>    Exit from a loop •
+  <a href="builtin.html">builtin</a>  Run a shell builtin
+  <a href="bzip2.html">bzip2</a>    Compress or decompress named file(s)
